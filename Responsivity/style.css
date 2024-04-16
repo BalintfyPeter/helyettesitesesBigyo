@@ -1,0 +1,15 @@
+/*3 col*/
+@media only screen and (min-width: 768px){
+    #gallery{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+/*5 col*/
+@media only screen and (min-width: 1280px){
+    #gallery{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
